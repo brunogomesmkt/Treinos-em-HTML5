@@ -1,1 +1,1 @@
-# Aqui você vai encontrar os arrquivos em MHTL que eu faço para treinar a linguagem de marcação HTML5.
+# Aqui você vai encontrar os arquivos em HTML que eu faço para treinar a linguagem de marcação HTML5.
